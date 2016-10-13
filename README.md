@@ -49,5 +49,3 @@ Overview of study accomplishments so far
  User can also try putting a name in. If the name already exists in Blocbox they can simply click to add.
 - The users also need to manage their collaborators. Each collaborator should be listed with their name and e-mail, providing the user with the option to remove.
 - Per contributor it shows in which of your group blocbox(es) they are contributing and their latest contribution
-
-
