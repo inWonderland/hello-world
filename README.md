@@ -45,7 +45,7 @@ Overview of study accomplishments so far
  Sitemap using Balsamiq: is in myBalsamiq folder which you have access to
  
  Content for the contributors page
- - To add collaborators, a user will need to input an e-mail address of the recipient. We should also provide a message sent with the invitation. We should provide a pre-existing message that is sent, allowing the user to write their own.
+    - To add collaborators, a user will need to input an e-mail address of the recipient. We should also provide a message sent with the invitation. We should provide a pre-existing message that is sent, allowing the user to write their own.
  User can also try putting a name in. If the name already exists in Blocbox they can simply click to add.
-- The users also need to manage their collaborators. Each collaborator should be listed with their name and e-mail, providing the user with the option to remove.
-- Per contributor it shows in which of your group blocbox(es) they are contributing and their latest contribution
+    - The users also need to manage their collaborators. Each collaborator should be listed with their name and e-mail, providing the user with the option to remove.
+    - Per contributor it shows in which of your group blocbox(es) they are contributing and their latest contribution
