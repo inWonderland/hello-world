@@ -33,10 +33,21 @@ Overview of study accomplishments so far
     Opportunity for all: growing cloud computing, getting customed to use of apps
     Threats for all: rapid tech changes, ease of copying product and product features
  
- 5. Created three persona's
+ Assignment 5: Created three persona's
  There is a pattern to be seen with the persona's already given. Feels a bit dawnting at the moment to try to create something that will fit all the persona's. Maybe need to choose a, forgive the marketing term, "target group"?
  Persona's are to be found in my dropbox folder named Blocbox.
  
- 6. Made user flow blocbox
+ Assignment 6: Made user flows blocbox
  Shared the spreadsheet with user stories via email. This is the link to the user flows https://drive.google.com/file/d/0BwnS7DNSveYlYUkwRGtBOURzZ28/view?usp=sharing
+ 
+ Assignment 7: Sitemap
+ Sitemap using draw: https://drive.google.com/file/d/0BwnS7DNSveYlU1dpUmFZWFJTdVk/view?usp=sharing
+ Sitemap using Balsamiq: is in myBalsamiq folder which you have access to
+ 
+ Content for the contributors page
+ - To add collaborators, a user will need to input an e-mail address of the recipient. We should also provide a message sent with the invitation. We should provide a pre-existing message that is sent, allowing the user to write their own.
+ User can also try putting a name in. If the name already exists in Blocbox they can simply click to add.
+- The users also need to manage their collaborators. Each collaborator should be listed with their name and e-mail, providing the user with the option to remove.
+- Per contributor it shows in which of your group blocbox(es) they are contributing and their latest contribution
+
 
