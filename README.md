@@ -36,3 +36,7 @@ Overview of study accomplishments so far
  5. Created three persona's
  There is a pattern to be seen with the persona's already given. Feels a bit dawnting at the moment to try to create something that will fit all the persona's. Maybe need to choose a, forgive the marketing term, "target group"?
  Persona's are to be found in my dropbox folder named Blocbox.
+ 
+ 6. Made user flow blocbox
+ Shared the spreadsheet with user stories via email. This is the link to the user flows https://drive.google.com/file/d/0BwnS7DNSveYlYUkwRGtBOURzZ28/view?usp=sharing
+
