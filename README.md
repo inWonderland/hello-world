@@ -55,3 +55,6 @@ Overview of study accomplishments so far
  - Versions 1 to 3 are according to assignment. Versions 4 to 7 are own variations. Like version 4 the most for now.
  - As you can may be read in the mockups 4 to 7, changed the assignment a bit to a platform devoted to professional musicians
  - Looked at other homepages and primarily noted two things. First: the length of the homepage. Apparently scrolling has replaced clicking. Second: Pricing plans are burried further in the interaction when services also have a free plan.
+ 
+Assignment 9: Dashboard and account wireframes
+- All in mybalsamiq file. All according to assignment, so not yet turned into specific for music yet. Will do that in high fidelity wireframing.
