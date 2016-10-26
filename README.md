@@ -58,3 +58,10 @@ Overview of study accomplishments so far
  
 Assignment 9: Dashboard and account wireframes
 - All in mybalsamiq file. All according to assignment, so not yet turned into specific for music yet. Will do that in high fidelity wireframing.
+
+Assignment 10: Typefaces
+- Ai and pdf files are in my dropbox folder called Blocbox. V1 is according to assignment.
+- For version 2 I chose a more street and outspoken typeface for the heading to match with the targeted industry (music). Bungee refers a bit to old school graffiti in my opinion. So it is a bit retro, but in a modern way. Design wise I like you can use it vertically very well as well. Which gives more options for headers. I paired it with Open Sans Regular. Thought it needed a very neutral font to contrast with the very outspoken font. Open Sans Light doesn't give enough counterbalance and Open Sans semi-bold makes everything bit too heavy. Both are sans serif typefaces.
+- For version 3 I chose a serif font that has a handwriting feel to it. In this way it refers to capturing notes. I paired it with Lato light, to keep the lightness and again contrast something outspoken with something far more basic.
+- At the moment slight preference towards version 2 but in doubt between all three versions. So wondering what you think.
+- As a reminder: dropbox link is https://www.dropbox.com/sh/46zyvh4ygvx6571/AAD8UIEo6PByhvZU1EQkMABFa?dl=0
