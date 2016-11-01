@@ -65,3 +65,9 @@ Assignment 10: Typefaces
 - For version 3 I chose a serif font that has a handwriting feel to it. In this way it refers to capturing notes. I paired it with Lato light, to keep the lightness and again contrast something outspoken with something far more basic.
 - At the moment slight preference towards version 2 but in doubt between all three versions. So wondering what you think.
 - As a reminder: dropbox link is https://www.dropbox.com/sh/46zyvh4ygvx6571/AAD8UIEo6PByhvZU1EQkMABFa?dl=0
+
+Assignment 11: Logo's
+- Ai and pdf files are in my dropbox folder called Blocbox.
+- Logoblocbox v1 is according to assignment.
+- Logoblocbox studies is a selection of my brainstorm. Tried to do something with the music target group, the font and a neon version (wich the inline version of the font reminded me of).
+- Worked on two in logo blocbox v2 and v3.
