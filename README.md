@@ -71,3 +71,7 @@ Assignment 11: Logo's
 - Logoblocbox v1 is according to assignment.
 - Logoblocbox studies is a selection of my brainstorm. Tried to do something with the music target group, the font and a neon version (wich the inline version of the font reminded me of).
 - Worked on two in logo blocbox v2 and v3.
+
+Assignment 12: Color pallette
+- Ai and pdf files are in my dropbox folder called Blocbox.
+- Type face and color to assignment. Selected the retro feel logo based on feedback by musicians. Used the color pallette that the font designer uses as well on the font website. Work really well for the retro feel I think.
