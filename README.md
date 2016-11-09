@@ -73,5 +73,6 @@ Assignment 11: Logo's
 - Worked on two in logo blocbox v2 and v3.
 
 Assignment 12: Color pallette
-- Ai and pdf files are in my dropbox folder called Blocbox.
+- Ai and pdf files are in my dropbox folder called Blocbox. Now also including the monochromatic and complementary schemes.
 - Type face and color to assignment. Selected the retro feel logo based on feedback by musicians. Used the color pallette that the font designer uses as well on the font website. Work really well for the retro feel I think.
+- My end choice is my own designed logo and color palette. It matches the current design esthetic (retro) prevalent in the music industry (see Marshall, guitar brands, drum brands, tv shows, etc).
