@@ -79,3 +79,6 @@ Assignment 12: Color pallette
 
 Assignment 13: High fidelity homepage
 - Page according to instruction video and alternative home page are in dropbox file named high fidelity.
+
+Assignment 14: High fidelity sign up / sign in
+- Are in the same file as mentioned above
