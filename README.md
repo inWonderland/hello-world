@@ -82,3 +82,14 @@ Assignment 13: High fidelity homepage
 
 Assignment 14: High fidelity sign up / sign in
 - Are in the same file as mentioned above
+
+Assignment 15: High fidelity dashboard 
+- Are in the same .ai and pdf file
+- Dit not change it to own ideas yet (music, font, etc) and incorporating feedback. Thinking of doing that all at once in the end of the high fidelity wireframing.
+- Pros and cons for horizontal navigation:
+    - Pros: You can lock the horizontal navigation so you will not need to scroll up for the menu if you have a lot of content
+    - Cons: Glancing may not be easy (see pros vertical), with a lot of boxes the navigation can get cluttered easily
+- Pros and cons for vertical navigation:
+    - Pros: Everything is in a list form making it easier to scan, other popular websites use same navigation so people get accustomed.
+    - Cons: Takes up a lot of space in comparison to users own content, if list of boxes gets long people will need to scroll often
+
