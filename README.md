@@ -96,3 +96,7 @@ Assignment 15: High fidelity dashboard
 Assignment 16:
 - Same .ai and .pdf file
 - Included screen without billing address. You can get by with credit card details on its own. Include just the zippcode to surpress fraude options. 
+
+Assignment 17:
+- Same .ai and .pdf file
+- Made three artboards for menus per category to be able to edit.
