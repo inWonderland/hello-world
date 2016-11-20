@@ -93,3 +93,6 @@ Assignment 15: High fidelity dashboard
     - Pros: Everything is in a list form making it easier to scan, other popular websites use same navigation so people get accustomed.
     - Cons: Takes up a lot of space in comparison to users own content, if list of boxes gets long people will need to scroll often
 
+Assignment 16:
+- Same .ai and .pdf file
+- Included screen without billing address. You can get by with credit card details on its own. Include just the zippcode to surpress fraude options. 
