@@ -100,3 +100,7 @@ Assignment 16:
 Assignment 17:
 - Same .ai and .pdf file
 - Made three artboards for menus per category to be able to edit.
+
+Assignment 18:
+- Invited you to the invision environment for this project
+- Decided not to further explore the music version due to time constraints.
