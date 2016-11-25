@@ -104,3 +104,7 @@ Assignment 17:
 Assignment 18:
 - Invited you to the invision environment for this project
 - Decided not to further explore the music version due to time constraints.
+
+Assignment 19:
+- Did the interview and the online test
+- Most heard is that the would like a top menu on the home page. My assumption is that due to the image size and placement, the description of the product is beneath the fold and people start to search. Maybe if we integrate the headline and the image, the three icons and their text appear above the fold and things become clearer on the home page.
