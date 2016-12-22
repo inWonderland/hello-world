@@ -108,3 +108,6 @@ Assignment 18:
 Assignment 19:
 - Did the interview and the online test
 - Most heard is that the would like a top menu on the home page. My assumption is that due to the image size and placement, the description of the product is beneath the fold and people start to search. Maybe if we integrate the headline and the image, the three icons and their text appear above the fold and things become clearer on the home page.
+
+Assignment 20:
+- PSD files dashboardbb, dashboardbbdiffcolour and dashboardblankstate are in my blocbox folder.
