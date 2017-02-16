@@ -118,3 +118,7 @@ Assignment 21:
 Assignment 22:
 - All PSD and Sketch files are in the dropbox folder.
 - The error screens are only made in PSD
+
+Assignment 23
+- See all PSD and Sketch files in the dropbox folder
+- Bit unsure about the input feedback
