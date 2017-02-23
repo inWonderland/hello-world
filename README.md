@@ -122,3 +122,6 @@ Assignment 22:
 Assignment 23
 - See all PSD and Sketch files in the dropbox folder
 - Bit unsure about the input feedback
+
+Assignment 24
+- Homepages in Sketch file bb design new
