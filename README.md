@@ -125,3 +125,6 @@ Assignment 23
 
 Assignment 24
 - Homepages in Sketch file bb design new
+
+Assignment 25
+- The assignment page is called sign up with details within the sketch file. Not sure if this is what was meant with the assignment
