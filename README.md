@@ -128,3 +128,6 @@ Assignment 24
 
 Assignment 25
 - The assignment page is called sign up with details within the sketch file. Not sure if this is what was meant with the assignment
+
+Assignment 29
+- The three assignments I would select are 1) Capstone project. Already have a project in mind: the redesign of the website of Disneyland Paris, because currently it irritates the hell out of me. 2)BlocShop, since I haven't created anything similar yet (ecommerce shop), 3) BlocStarter, because I like the cause. To be realistic, the chances of me finishing all three within the rest of the time frame we've got is probably zero. Think the diversity of working on more than one assignment fits my character more so hoping I can start at least one of these projects. 
